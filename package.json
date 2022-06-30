@@ -1,12 +1,12 @@
 {
-	"name": "fifteen_start",
+	"name": "fifteen",
 	"version": "0.0.1",
-	"description": "fifteen_start",
+	"description": "fifteen",
 	"repository": {
 		"type": "git",
-		"url": "git@github.com:liveldi/lab.webelart.git"
+		"url": "git@github.com:Renat2202/fifteen.git"
 	},
-	"author": "Elena Litvinova",
+	"author": "Renat Ismailov",
 	"license": "ISC",
 	"engines": {
 		"node": ">=10",
