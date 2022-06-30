@@ -4,7 +4,7 @@
 	"description": "fifteen",
 	"repository": {
 		"type": "git",
-		"url": "git@github.com:Renat2202/fifteen.git"
+		"url": "https://github.com/Renat2202/fifteen.git"
 	},
 	"author": "Renat Ismailov",
 	"license": "ISC",
